@@ -1,0 +1,27 @@
+{
+  "lgg": {
+    "n_images": 1212,
+    "dice_all": 0.8882,
+    "iou_all": 0.8619,
+    "dice_tumor_only": 0.7459,
+    "iou_tumor_only": 0.6792,
+    "sensitivity": 0.8073,
+    "specificity": 0.9986,
+    "fp_slice_rate": 0.0163,
+    "dice_per_patient_mean": 0.878,
+    "dice_per_patient_std": 0.0918,
+    "n_patients": 17
+  },
+  "figshare": {
+    "n_images": 3064,
+    "dice_all": 0.2209,
+    "iou_all": 0.1897,
+    "dice_tumor_only": 0.2209,
+    "iou_tumor_only": 0.1897,
+    "sensitivity": 0.2161,
+    "specificity": 0.9999,
+    "fp_slice_rate": null
+  },
+  "dice_gap": 0.6673,
+  "best_val_dice": 0.911
+}
