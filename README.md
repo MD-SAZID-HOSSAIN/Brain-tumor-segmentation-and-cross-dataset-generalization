@@ -129,3 +129,7 @@ best.pt                  trained model weights
 ## Running it
 
 Add both datasets as Kaggle inputs (`lgg-mri-segmentation` and `figshare-brain-tumor-dataset`), turn on GPU and internet, and run `brain_tumor_seg.py` top to bottom. A full run with the default settings (30 epochs, early stopping) takes roughly 25-30 minutes on a Kaggle P100.
+
+===========================================================
+Kaggle link - https://www.kaggle.com/code/sazidhossain27/brain-tumors
+===========================================================
